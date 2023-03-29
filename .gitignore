@@ -1,0 +1,5 @@
+#ignore all hidden
+.*
+
+#don't ignore .gitignore
+!.gitignore
